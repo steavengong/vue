@@ -1,0 +1,10 @@
+.idea/
+*.lock
+*.log
+*.swp
+node_modules
+bower_components
+.tmp
+.sass-cache/
+.DS_Store
+dist
